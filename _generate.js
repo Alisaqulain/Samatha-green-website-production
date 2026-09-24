@@ -419,7 +419,7 @@ ${banner("", "Contact Us", "Get in touch with Samatha Green Energy Solutions for
       <p class="page-desc mt-3">Use the details below for enquiries, site visits, installation support, AMC assistance, and renewable energy project planning.</p>
       <div class="mt-7 rounded-[28px] bg-white px-6 py-7">
         <div class="flex items-start gap-3"><span class="mt-0.5 text-[#2cb673]">${icon("office", 18)}</span><div><p class="text-[11px] font-extrabold uppercase tracking-[0.14em] text-[#125393]">COMPANY NAME</p><p class="mt-1 font-bold text-[#0A2540]">Samatha Green Energy Solutions</p></div></div>
-        <div class="mt-5 flex items-start gap-3"><span class="mt-0.5 text-[#2cb673]">${icon("map", 18)}</span><div><p class="text-[11px] font-extrabold uppercase tracking-[0.14em] text-[#125393]">OFFICE ADDRESS</p><p class="mt-1 font-bold text-[#0A2540]">No #53, Kowdenahalli, Kalkere Main Rd, K R Puram, Bengaluru, Karnataka 560016</p></div></div>
+        <div class="mt-5 flex items-start gap-3"><span class="mt-0.5 text-[#2cb673]">${icon("map", 18)}</span><div><p class="text-[11px] font-extrabold uppercase tracking-[0.14em] text-[#125393]">OFFICE ADDRESS</p><p class="mt-1 font-bold text-[#0A2540]">No. 53, Kalkere Main Rd, near Anjaneya Temple, Akshaya Nagar 2nd Block, Kowdenahalli, Ramamurthy Nagar, Bengaluru, Karnataka 560016</p></div></div>
         <div class="mt-5 flex items-start gap-3"><span class="mt-0.5 text-[#2cb673]">${icon("call", 18)}</span><div><p class="text-[11px] font-extrabold uppercase tracking-[0.14em] text-[#125393]">CONTACT NUMBER</p><a href="tel:8050018267" class="mt-1 block font-bold text-[#0A2540]">8050018267</a></div></div>
         <div class="mt-5 flex items-start gap-3"><span class="mt-0.5 text-[#2cb673]">${icon("email", 18)}</span><div><p class="text-[11px] font-extrabold uppercase tracking-[0.14em] text-[#125393]">EMAIL ADDRESS</p><a href="mailto:samathagreenenergy@gmail.com" class="mt-1 block font-bold text-[#0A2540]">samathagreenenergy@gmail.com</a></div></div>
       </div>
@@ -459,10 +459,11 @@ ${banner("", "Contact Us", "Get in touch with Samatha Green Energy Solutions for
       <span class="text-[#2cb673]">${icon("map", 22)}</span>
       <h3 class="page-card-title mt-4 font-extrabold text-brand-navy">Samatha Green Energy Solutions Pvt Ltd</h3>
       <p class="mt-1 text-base font-bold text-slate-500">Solar Energy Company</p>
-      <p class="page-desc mt-4">No #53, Kowdenahalli, Kalkere Main Rd, K R Puram, Bengaluru, Karnataka 560016</p>
-      <a href="https://www.google.com/maps/place/13%C2%B001'09.3%22N+77%C2%B040'44.0%22E/@13.0192437,77.6763172,17z/data=!3m1!4b1!4m4!3m3!8m2!3d13.0192437!4d77.6788921?hl=en" data-office-map-link target="_blank" rel="noopener noreferrer" class="mt-6 inline-flex h-11 w-fit items-center rounded-full bg-[#14559b] px-6 text-sm font-semibold text-white">Open in Google Maps</a>
+      <p class="page-desc mt-4">No. 53, Kalkere Main Rd, near Anjaneya Temple, Akshaya Nagar 2nd Block, Kowdenahalli, Ramamurthy Nagar, Bengaluru, Karnataka 560016</p>
+      <p class="mt-2 text-sm font-semibold text-slate-500">Plus code: 2M9H+MG Bengaluru, Karnataka</p>
+      <a href="https://www.google.com/maps/search/?api=1&amp;query=Samatha+Green+Energy+Solutions+Pvt+Ltd" data-office-map-link target="_blank" rel="noopener noreferrer" class="mt-6 inline-flex h-11 w-fit items-center rounded-full bg-[#14559b] px-6 text-sm font-semibold text-white">Open in Google Maps</a>
     </div>
-    <div class="relative min-h-[340px] bg-slate-100 lg:min-h-[460px]"><iframe title="Office location at 13.019244, 77.678892" data-office-map-embed src="https://www.google.com/maps?q=13.019244,77.678892&hl=en&z=17&output=embed" class="absolute inset-0 h-full w-full border-0" loading="lazy"></iframe></div>
+    <div class="relative min-h-[340px] bg-slate-100 lg:min-h-[460px]"><iframe title="Samatha Green Energy Solutions on Google Maps" data-office-map-embed src="about:blank" class="absolute inset-0 h-full w-full border-0" loading="lazy"></iframe></div>
   </div>
 </section>
 `

@@ -1,12 +1,12 @@
 window.SITE_DATA = {
   whatsapp: "918050018267",
   contactEmail: "samathagreenenergy@gmail.com",
+  officeAddress:
+    "No. 53, Kalkere Main Rd, near Anjaneya Temple, Akshaya Nagar 2nd Block, Kowdenahalli, Ramamurthy Nagar, Bengaluru, Karnataka 560016",
   officeMap: {
-    lat: 13.019244,
-    lng: 77.678892,
-    googleMapsUrl:
-      "https://www.google.com/maps/place/13%C2%B001'09.3%22N+77%C2%B040'44.0%22E/@13.0192437,77.6763172,17z/data=!3m1!4b1!4m4!3m3!8m2!3d13.0192437!4d77.6788921?hl=en",
-    embedSrc: "https://www.google.com/maps?q=13.019244,77.678892&hl=en&z=17&output=embed",
+    placeQuery:
+      "Samatha Green Energy Solutions Pvt Ltd, 53, Kalkere Main Rd, near Anjaneya Temple, Akshaya Nagar 2nd Block, Kowdenahalli, Ramamurthy Nagar, Bengaluru, Karnataka 560016",
+    plusCode: "2M9H+MG Bengaluru, Karnataka",
   },
   year: new Date().getFullYear(),
   faqs: [
